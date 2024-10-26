@@ -1,2 +1,0 @@
-# josephturnerjr.github.io
-Homepage

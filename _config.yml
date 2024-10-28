@@ -22,7 +22,8 @@ title: The Joseph Turner's Website
 description: >- # this means to ignore newlines until "baseurl:"
   Computers. Nerd stuff. Idle thoughts. Less idle thoughts. Dumb shit.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+domain: josephturnerjr.github.io
+url: https://josephturnerjr.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shrimpjt
 github_username:  josepturnerjr
 
